@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teslacats7776/clickygame/static/css/main.d6dc36f8.chunk.css",
+    "main.js": "/teslacats7776/clickygame/static/js/main.a892a47e.chunk.js",
+    "main.js.map": "/teslacats7776/clickygame/static/js/main.a892a47e.chunk.js.map",
+    "runtime-main.js": "/teslacats7776/clickygame/static/js/runtime-main.fc626dd7.js",
+    "runtime-main.js.map": "/teslacats7776/clickygame/static/js/runtime-main.fc626dd7.js.map",
+    "static/js/2.2c33e8b8.chunk.js": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js",
+    "static/js/2.2c33e8b8.chunk.js.map": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js.map",
+    "index.html": "/teslacats7776/clickygame/index.html",
+    "precache-manifest.56d6fd22539a27155b24e65fbec03ad0.js": "/teslacats7776/clickygame/precache-manifest.56d6fd22539a27155b24e65fbec03ad0.js",
+    "service-worker.js": "/teslacats7776/clickygame/service-worker.js",
+    "static/css/main.d6dc36f8.chunk.css.map": "/teslacats7776/clickygame/static/css/main.d6dc36f8.chunk.css.map",
+    "static/js/2.2c33e8b8.chunk.js.LICENSE.txt": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teslacats7776/clickygame/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc626dd7.js",
+    "static/js/2.2c33e8b8.chunk.js",
+    "static/css/main.d6dc36f8.chunk.css",
+    "static/js/main.a892a47e.chunk.js"
+  ]
+}
