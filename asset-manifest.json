@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/teslacats7776/clickygame/static/css/main.d6dc36f8.chunk.css",
-    "main.js": "/teslacats7776/clickygame/static/js/main.a892a47e.chunk.js",
-    "main.js.map": "/teslacats7776/clickygame/static/js/main.a892a47e.chunk.js.map",
-    "runtime-main.js": "/teslacats7776/clickygame/static/js/runtime-main.fc626dd7.js",
-    "runtime-main.js.map": "/teslacats7776/clickygame/static/js/runtime-main.fc626dd7.js.map",
-    "static/js/2.2c33e8b8.chunk.js": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js",
-    "static/js/2.2c33e8b8.chunk.js.map": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js.map",
-    "index.html": "/teslacats7776/clickygame/index.html",
-    "precache-manifest.56d6fd22539a27155b24e65fbec03ad0.js": "/teslacats7776/clickygame/precache-manifest.56d6fd22539a27155b24e65fbec03ad0.js",
-    "service-worker.js": "/teslacats7776/clickygame/service-worker.js",
-    "static/css/main.d6dc36f8.chunk.css.map": "/teslacats7776/clickygame/static/css/main.d6dc36f8.chunk.css.map",
-    "static/js/2.2c33e8b8.chunk.js.LICENSE.txt": "/teslacats7776/clickygame/static/js/2.2c33e8b8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/teslacats7776/clickygame/static/media/logo.5d5d9eef.svg"
+    "main.css": "/clickygame/static/css/main.d6dc36f8.chunk.css",
+    "main.js": "/clickygame/static/js/main.20f1e842.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.20f1e842.chunk.js.map",
+    "runtime-main.js": "/clickygame/static/js/runtime-main.0439b634.js",
+    "runtime-main.js.map": "/clickygame/static/js/runtime-main.0439b634.js.map",
+    "static/js/2.2c33e8b8.chunk.js": "/clickygame/static/js/2.2c33e8b8.chunk.js",
+    "static/js/2.2c33e8b8.chunk.js.map": "/clickygame/static/js/2.2c33e8b8.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.cc2df1e6b089ed1f65d732495d905071.js": "/clickygame/precache-manifest.cc2df1e6b089ed1f65d732495d905071.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.d6dc36f8.chunk.css.map": "/clickygame/static/css/main.d6dc36f8.chunk.css.map",
+    "static/js/2.2c33e8b8.chunk.js.LICENSE.txt": "/clickygame/static/js/2.2c33e8b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clickygame/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc626dd7.js",
+    "static/js/runtime-main.0439b634.js",
     "static/js/2.2c33e8b8.chunk.js",
     "static/css/main.d6dc36f8.chunk.css",
-    "static/js/main.a892a47e.chunk.js"
+    "static/js/main.20f1e842.chunk.js"
   ]
 }
