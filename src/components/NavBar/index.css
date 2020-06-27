@@ -1,0 +1,10 @@
+.nav {
+margin-top: 12px;
+    background-color: rgb(232, 95, 4);
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: relative;
+}

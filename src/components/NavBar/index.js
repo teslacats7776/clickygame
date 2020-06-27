@@ -1,22 +1,20 @@
 import React from "react"
-
+import "./index.css"
 function NavBar (props)
  {
 
     return (
-        <ul className="nav justify-content-center">
+      <ul className="nav justify-content-center"  >
   <li className="nav-item">
-    <a className="nav-link active" href="#">Active</a>
+    <a className="nav-link disabled" href="#">Cliky Game- Find a Hound</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link" href="#">Link</a>
+    <a className="nav-link" href="#">Score:{props.score}</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link" href="#">Link</a>
+    <a className="nav-link" href="#">Top Score:{props.topScore}</a>
   </li>
-  <li className="nav-item">
-    <a className="nav-link disabled" href="#">Disabled</a>
-  </li>
+
 </ul>
     )
  }

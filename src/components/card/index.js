@@ -8,7 +8,7 @@ function Card (props){
           {
           props.data.map(data=>{
                      return ( <div className="card col-sm-3" >
-                    <img className="card-img-top" src={data.image} alt="Card image cap"/>
+                    <img className="card-img-top" src={data.image} style={{width: 200, height: 200}} alt="Card image cap" onClick={()=>props.handleSubmit(data.id)}/>
                     </div>)
           })}
        

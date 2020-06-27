@@ -22,5 +22,40 @@
         "id": 5,
         "image": "/images/images5.png"
 
+    },
+    {
+        "id": 6,
+        "image": "/images/images6.jpeg"
+
+    },
+    {
+        "id": 7,
+        "image": "/images/images7.png"
+
+    },
+    {
+        "id": 8,
+        "image": "/images/images8.jpeg"
+
+    },
+    {
+        "id": 9,
+        "image": "/images/images9.jpeg"
+
+    },
+    {
+        "id": 10,
+        "image": "/images/images10.jpeg"
+
+    },
+    {
+        "id": 11,
+        "image": "/images/images11.jpeg"
+
+    },
+    {
+        "id": 12,
+        "image": "/images/images12.jpeg"
+
     }
 ]
